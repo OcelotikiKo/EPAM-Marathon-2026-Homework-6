@@ -2,6 +2,8 @@
 
 ## Group Pre-Order - Owner View
 
+**Author:** Yan Kolesnykov
+
 Implementation of group pre-order management for the reservation owner in Green & Tasty.
 
 ## Features
