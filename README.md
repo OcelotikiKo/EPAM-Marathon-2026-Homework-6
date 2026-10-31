@@ -4,6 +4,12 @@
 
 **Author:** Yan Kolesnykov
 
+## Live Demo
+
+**[Green Tasty Restaurant“ Open Website](https://dl8v07zbkza4a.cloudfront.net/main)**
+
+The application is deployed using AWS Lambda, Amazon API Gateway, Amazon DynamoDB and Amazon CloudFront.
+
 Implementation of group pre-order management for the reservation owner in Green & Tasty.
 
 ## Features
